@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		24B20AFCD5A1B6C5613909DC /* Pods_CitySearcher.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 439083079CE727D26ADD615E /* Pods_CitySearcher.framework */; };
-		D00888B71F9C7B3B008D2046 /* CitySearcherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00888B61F9C7B3B008D2046 /* CitySearcherViewController.swift */; };
 		D0748B2E1F9A83C200A7A483 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0748B2D1F9A83C200A7A483 /* AppDelegate.swift */; };
 		D0748B301F9A83C200A7A483 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0748B2F1F9A83C200A7A483 /* ViewController.swift */; };
 		D0748B331F9A83C200A7A483 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0748B311F9A83C200A7A483 /* Main.storyboard */; };
@@ -31,7 +30,6 @@
 /* Begin PBXFileReference section */
 		439083079CE727D26ADD615E /* Pods_CitySearcher.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CitySearcher.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		462F17D08DE8EBB686920D73 /* Pods-CitySearcher.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CitySearcher.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CitySearcher/Pods-CitySearcher.debug.xcconfig"; sourceTree = "<group>"; };
-		D00888B61F9C7B3B008D2046 /* CitySearcherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CitySearcherViewController.swift; sourceTree = "<group>"; };
 		D0748B2A1F9A83C200A7A483 /* CitySearcher.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CitySearcher.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0748B2D1F9A83C200A7A483 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D0748B2F1F9A83C200A7A483 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -112,7 +110,6 @@
 				D0748B341F9A83C200A7A483 /* Assets.xcassets */,
 				D0748B361F9A83C200A7A483 /* LaunchScreen.storyboard */,
 				D0748B391F9A83C200A7A483 /* Info.plist */,
-				D00888B61F9C7B3B008D2046 /* CitySearcherViewController.swift */,
 			);
 			path = CitySearcher;
 			sourceTree = "<group>";
@@ -291,7 +288,6 @@
 			files = (
 				D0748B301F9A83C200A7A483 /* ViewController.swift in Sources */,
 				D0748B2E1F9A83C200A7A483 /* AppDelegate.swift in Sources */,
-				D00888B71F9C7B3B008D2046 /* CitySearcherViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
